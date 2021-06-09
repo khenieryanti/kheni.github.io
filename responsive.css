@@ -1,0 +1,10 @@
+@media (max-width: 1000px) {
+  .content1 {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+
+.clear {
+  clear:left;
+}
